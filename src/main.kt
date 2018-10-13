@@ -20,7 +20,7 @@ fun main(args: Array<String>) {
     println(firstname)
 
     // If you uncomment the next line, you will see 'cannot reassign' error
-    //name = "someone else"
+    // firstname = "someone else"
 
     // Explicit Types are not necessary
     val lastname = "Power"
